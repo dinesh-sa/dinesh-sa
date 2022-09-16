@@ -4,7 +4,7 @@ problems ranging from the shortest-distance-path problem at Walmart to Land Use-
 
 👀 My interests in Computer Science include (not limited to) :
 - Competitive coding (Java / Python)
-- Software Development : Spring, Microservice Architecture, Scalability, Fault Tolerance, OOD, Database indexes and optimizations, CI/CD
+- Spring, Microservice Architecture, Scalability, Fault Tolerance, OOD, Database indexes and optimizations, CI/CD
 - Machine Learning concepts and implementation using Tensorflow, Pytorch, Keras
 
 <br/>
