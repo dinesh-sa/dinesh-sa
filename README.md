@@ -7,5 +7,6 @@ problems ranging from the shortest-distance-path problem at Walmart to Land Use-
 - Software Development : Spring, Microservice Architecture, Scalability, Fault Tolerance, OOD, Database indexes and optimizations, CI/CD
 - Machine Learning concepts and implementation using Tensorflow, Pytorch, Keras
 
+<br/>
 My GitHub contains projects I'd worked on during my Undergrad days, and solutions to LeetCode problems that I practice on a daily basis.
 📫 How to reach me -  www.linkedin.com/in/dineshsathya | dineshsathya191198@gmail.com (Personal mail) | dineshsa@usc.edu (Student email) 
