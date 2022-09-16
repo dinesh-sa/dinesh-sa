@@ -9,4 +9,4 @@ problems ranging from the shortest-distance-path problem at Walmart to Land Use-
 
 <br/>
 My GitHub contains projects I'd worked on during my Undergrad days, and solutions to LeetCode problems that I practice on a daily basis.
-📫 How to reach me -  www.linkedin.com/in/dineshsathya | dineshsathya191198@gmail.com (Personal mail) | dineshsa@usc.edu (Student email) 
+📫 www.linkedin.com/in/dineshsathya | dineshsathya191198@gmail.com (Personal mail) | dineshsa@usc.edu (Student email) 
