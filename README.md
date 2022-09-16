@@ -1,3 +1,4 @@
+# Welcome :)
 Hi!! I'm Dinesh, currently a graduate student at the University of Southern California, pursuing the Master of Science program in Computer Science (Fall 2022).
 Till date, I've worked at Walmart Global Tech (India) and the Indian Space and Research Organization (ISRO), to build scalable solutions to 
 problems ranging from the shortest-distance-path problem at Walmart to Land Use-Land Cover classification at ISRO.
